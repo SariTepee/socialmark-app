@@ -1,24 +1,49 @@
 # socialmark-app
 
-## Project setup
+## Launch Project
+
+### Step 1 - Project setup
+
 ```
 npm install
+or
+yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Step 2 - Run Frontent (Terminal 1)
+
 ```
 npm run serve
+or
+yarn serve
 ```
 
-### Compiles and minifies for production
+### Step 3 - Listen Fake Api (Terminal 2)
+
 ```
-npm run build
+json-server --watch db.json
 ```
 
-### Lints and fixes files
+### Step 4 - Run Server (Terminal 3)
+
 ```
-npm run lint
+cd server
+and
+npm run start
+or
+yarn start
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Next Steps
+
+Our project stood up. You can use the following users to login.
+
+```
+Username: ömer
+Password: 1234
+or
+Username: talha
+Password: 1234
+```
+
+After logging in, you can add a bookmark thanks to the new button on the top right.

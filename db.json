@@ -1,0 +1,252 @@
+{
+  "users": [
+    {
+      "username": "ömer",
+      "fullname": "Ömer Faruk Sarıtepe",
+      "password": "U2FsdGVkX1+VnpY9PayCNPGFamKb/9ZXF9RkU5bgEB4=",
+      "id": 1
+    },
+    {
+      "username": "talha",
+      "fullname": "Talha Demir",
+      "password": "U2FsdGVkX1+VnpY9PayCNPGFamKb/9ZXF9RkU5bgEB4=",
+      "id": 2,
+      "likes": [
+        4
+      ]
+    },
+    {
+      "username": "ays",
+      "fullname": "Ayşe Yeşil",
+      "password": "U2FsdGVkX1/5rjSb9YclfItqgXDTA60WVzMWRPRW4hQ=",
+      "id": 3
+    },
+    {
+      "username": "Hamza06",
+      "fullname": "Hamza Kızıl",
+      "password": "U2FsdGVkX19ReUzslY8jQOBYtOOyc+ANW7olvw/NGO4=",
+      "id": 4
+    },
+    {
+      "username": "admin",
+      "fullname": "admin",
+      "password": "U2FsdGVkX1+DpOGu341Dudn9otRfBfxFyAIXxwxaTi8=",
+      "id": 5,
+      "likes": [
+        2
+      ],
+      "bookmarks": [
+        2,
+        3
+      ]
+    },
+    {
+      "username": "nst",
+      "fullname": "Neşet",
+      "password": "U2FsdGVkX1+60iaPvm6xoL++tGC023y/aGFCTomr3bQ=",
+      "id": 6
+    }
+  ],
+  "bookmarks": [
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "My Vue JS",
+      "url": "https://vuejs.org/",
+      "categoryId": 1,
+      "description": "Best frontend framework in the space...",
+      "date": "2023-03-09T12:06:00.399Z",
+      "id": 1
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "Rreact",
+      "url": "https://reactjs.org/",
+      "categoryId": 2,
+      "description": "Worst framevork forever.",
+      "date": "2023-03-09T12:51:45.986Z",
+      "id": 2
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "Title",
+      "url": "hrrps://...",
+      "categoryId": 6,
+      "description": "Cloud best",
+      "date": "2023-03-09T14:22:21.539Z",
+      "id": 3
+    },
+    {
+      "username": "SariTepee",
+      "userId": 1,
+      "title": "Spring",
+      "url": "https://...",
+      "categoryId": 5,
+      "description": "Spring is worst backend framework.",
+      "date": "2023-03-09T14:23:46.040Z",
+      "id": 4
+    },
+    {
+      "username": "Talha06",
+      "userId": 2,
+      "title": "SocialLife",
+      "url": "https://...",
+      "categoryId": 7,
+      "description": "Social life is important...",
+      "date": "2023-03-09T14:27:08.317Z",
+      "id": 5
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "Deneme1",
+      "url": "https://...",
+      "categoryId": 3,
+      "description": "Angur ba bla...",
+      "date": "2023-03-13T04:29:43.395Z",
+      "id": 6
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "Son",
+      "url": "url",
+      "categoryId": 6,
+      "description": "Cloud best...",
+      "date": "2023-03-13T05:18:28.177Z",
+      "id": 7
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "sda",
+      "url": "sad",
+      "categoryId": 2,
+      "description": "sad",
+      "date": "2023-03-13T05:21:03.107Z",
+      "id": 8
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "ads",
+      "url": "asd",
+      "categoryId": 3,
+      "description": "asdasdsad",
+      "date": "2023-03-13T05:21:20.716Z",
+      "id": 9
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "sda",
+      "url": "asd",
+      "categoryId": 2,
+      "description": "ad",
+      "date": "2023-03-13T05:22:13.964Z",
+      "id": 10
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "sad",
+      "url": "sad",
+      "categoryId": 2,
+      "description": "sda",
+      "date": "2023-03-13T05:22:27.009Z",
+      "id": 11
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "123",
+      "url": "123",
+      "categoryId": 1,
+      "description": "123",
+      "date": "2023-03-13T05:32:44.729Z",
+      "id": 12
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "asd",
+      "url": "asd",
+      "categoryId": 2,
+      "description": "sad",
+      "date": "2023-03-13T05:35:05.607Z",
+      "id": 13
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "1223",
+      "url": "sad",
+      "categoryId": 2,
+      "description": "w",
+      "date": "2023-03-13T05:36:31.434Z",
+      "id": 14
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "111",
+      "url": "s",
+      "categoryId": 2,
+      "description": "e",
+      "date": "2023-03-13T05:37:37.025Z",
+      "id": 15
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "sad",
+      "url": "asd",
+      "categoryId": 3,
+      "description": "asd",
+      "date": "2023-03-13T05:38:36.303Z",
+      "id": 16
+    },
+    {
+      "username": "admin",
+      "userId": 5,
+      "title": "999",
+      "url": "sa",
+      "categoryId": 2,
+      "description": "asd",
+      "date": "2023-03-13T05:42:41.439Z",
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue.js",
+      "id": 1
+    },
+    {
+      "name": "React.js",
+      "id": 2
+    },
+    {
+      "name": "Angular.js",
+      "id": 3
+    },
+    {
+      "name": "Frontend",
+      "id": 4
+    },
+    {
+      "name": "Backend",
+      "id": 5
+    },
+    {
+      "name": "Cloud",
+      "id": 6
+    },
+    {
+      "name": "Social Life",
+      "id": 7
+    }
+  ]
+}
